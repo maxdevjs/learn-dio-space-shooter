@@ -1,12 +1,14 @@
-# Learn dio Space Shooter
+# learn-orbi-web-game-developer-space-shooter
 
-Codes for `Criando seu jogo no estilo Space Shooter`
+![screenshot](./img/start.png?raw=true "screenshot")
+
+Codes for `Criando seu jogo no estilo Space Shooter` - [Órbi](https://orbi.co/) Web Games Developer bootcamp at [DIO.\_](https://www.dio.me/en) (inital version).
 
 ## Instructions
 
 ### Play the game
 
-[]()
+[maxdevjs.github.io/learn-dio-space-shooter/](https://maxdevjs.github.io/learn-dio-space-shooter/)
 
 ### How to play
 
@@ -18,7 +20,7 @@ Codes for `Criando seu jogo no estilo Space Shooter`
 
 [keycode.info](http://keycode.info/)
 
-#### Stars
+### Stars
 
 [Shooting Stars - Made with CSS](https://codecampanion.blogspot.com/2018/12/shooting-stars-made-with-css.html)
 
@@ -32,4 +34,4 @@ Codes for `Criando seu jogo no estilo Space Shooter`
 
 ## TODO
 
-- [ ]
+- [ ] ...
