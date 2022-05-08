@@ -2,6 +2,8 @@
 
 Codes for `Criando seu jogo no estilo Space Shooter`
 
+|Note: old, broken, version
+
 ## Instructions
 
 ### Play the game
